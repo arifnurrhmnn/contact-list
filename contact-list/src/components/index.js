@@ -1,4 +1,5 @@
 import ListContact from "./ListContact";
-import FormContact from "./FormContact";
+import AddContact from "./FormContact/AddContact";
+import UpdateContact from "./FormContact/UpdateContact";
 
-export { ListContact, FormContact };
+export { ListContact, AddContact, UpdateContact };
